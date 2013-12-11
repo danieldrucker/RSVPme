@@ -25,6 +25,6 @@ Primary Project Objectives
 
 Database Schema
 ------------------
-![alt tag](https://github.com/danieldrucker/RSVPme/blob/master/Database%20Schema.png)
+![alt tag](https://github.com/danieldrucker/RSVPme/blob/master/Database%20Schema.png?raw=true)
 
 
