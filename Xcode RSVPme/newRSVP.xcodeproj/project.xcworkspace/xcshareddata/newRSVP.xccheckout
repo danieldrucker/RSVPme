@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4FF2C2E9-859B-44B1-9F5D-7125F2DF1AEF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>newRSVP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>66A2E680-B421-4B08-BABC-8C8983138FB9</key>
+		<string>https://github.com/danieldrucker/RSVPme.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xcode RSVPme/newRSVP.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>66A2E680-B421-4B08-BABC-8C8983138FB9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danieldrucker/RSVPme.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>66A2E680-B421-4B08-BABC-8C8983138FB9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>66A2E680-B421-4B08-BABC-8C8983138FB9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RSVPme</string>
+		</dict>
+	</array>
+</dict>
+</plist>
