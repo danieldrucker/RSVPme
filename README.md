@@ -1,6 +1,7 @@
 RSVPme
 ======
 
+
 Project Summary
 -----------------
 Create an app that lets people interact with each other in terms of attending an event. Events can range from a pick-up basketball game,  business meeting, or a baseball game. Users will be able to create, join, and leave groups as they wish. Within each group, members can create an event that send a push notification to all members in the group. Users can then “RSVP” to the specific event, allowing people in the group to see who is going, who’s not, etc. Groups can either be public or private. Anyone can join a public group, while one must be invited to join a private group. A private group example would be “Dogfish Software.” This is pretty self-explanatory. However a public group example could be “Pioneer Square Basketball,” allowing anyone to join. These groups will be searchable while private groups will not be.  
