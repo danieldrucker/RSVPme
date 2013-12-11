@@ -23,8 +23,8 @@ Primary Project Objectives
 * Learn to work with other people on an app.
 * Deliver base application (Version 1) to the app store by 06/01/2014.
 
-Primary Project Deliverables
+Database Schema
 ------------------
-
+![alt tag](https://github.com/danieldrucker/RSVPme/blob/master/Database%20Schema.png)
 
 
